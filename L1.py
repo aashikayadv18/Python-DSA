@@ -6,11 +6,7 @@ x = 19
 
 #refrensh count 2 of (age,x)
 
-print(type((name)))
-print(type((name)))
-print(id((name)))
-print(id((age)))
-print(id((x))) #same id of x and age
+# pz)) #same id of x and age
 
 #name of variable
   #characters a/A -z/Z
