@@ -1,3 +1,4 @@
+#Sequance data type
 #list data type
 #collection of element
 
