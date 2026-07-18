@@ -1,8 +1,8 @@
 #variables
 
-name = "Aashika"
-age = 19
-x = 19
+# name = "Aashika"
+# age = 19
+# x = 19
 
 #refrensh count 2 of (age,x)
 
@@ -13,15 +13,16 @@ x = 19
   # 0 - 9
   # _ (underscore)
 #start of the varial name
+
   # alphabets
   # underscore (cant't use even numbers)
 #variable are case senstive
 
-a = 21
-A = 22
+# a = 21
+# A = 22
 
-print(a)
-print(A)
+# print(a)
+# print(A)
 
 #avoid using keywords
 #variable should be single word
