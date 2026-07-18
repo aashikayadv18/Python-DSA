@@ -1,5 +1,1 @@
-print(input()) #input data is always a string
-
-# name = input()
-# print(name)
-# age
+num = input("enter the number :" )
