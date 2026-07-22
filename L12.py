@@ -17,3 +17,4 @@ match day_num :
         print("today is saturday")
     case 7 :
         print("today is sunday")
+        print("today is sunday")
