@@ -111,3 +111,20 @@ print( 7 in my_list)
 print( 5 not in my_list)
 result = 4+5*6
 print(result)
+
+
+# terniory operator
+
+num = 5
+
+if num >= 0 :
+    print("number is positive")
+else :
+    print("number is nagative")
+
+# terniory operator
+
+num = 5
+
+result = "postive" if num >=0 else "negative"
+print("number is :", result)
